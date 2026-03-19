@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "人類みなメンヘラ",
+  "base_artist": "たかやん",
+  "createdAt": "2026-03-19T18:12:05.636124Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人類みなメンヘラ",
+      "artist": "たかやん",
+      "has_synced": false,
+      "path": "select/pl_01_人類みなメンヘラ_たかやん.txt"
+    }
+  ]
+}
